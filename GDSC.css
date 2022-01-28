@@ -160,7 +160,8 @@ p{
     line-height: 2;
 }
 .cloud{
-    width: 200px;
+   width: 18%;
+    height: auto;
     display: inline-block;
     position: absolute;
     left:70%;
@@ -171,12 +172,13 @@ p{
 .city{
     margin: 0 180px ;
     width: 70%;
-    height: 400px;
+    height: auto;
     display: inline-block;
     padding-top: 15px;
 }
 .bottom-cloud{
-    width: 200px;
+   width: 18%;
+    height: auto;
     position: absolute;
     left: 190px;
     margin-top: 0;
@@ -187,13 +189,15 @@ p{
 }
 
 .bitmoji{
-    width: 10%;
+   width: 10%;
+    height: auto;
     margin: 0 45%;
     padding-top: 10px;
 
 }
 .bitmoji:hover{
     width: 11%;
+    height: auto;
 }
 .hello{
     font-family: 'Montserrat';
@@ -230,13 +234,17 @@ p{
     margin-top: 0;
 }
 .dance{
-       height: 150px;
-       width: 150px;
+       height: auto;
+       width: 90%;
        margin-bottom: 5%;
 }
 .dance:hover{
     height: 155px;
     width: 155px;
+}
+.danceimg{
+    width: 75%;
+    height: auto;
 }
 .music{
     margin-top: 5px;
@@ -257,7 +265,8 @@ p{
     font-size: 50px;
 }
 .programmer{
-    width: 300px;
+    width: 50%;
+    height: auto;
     padding-top: 15px;
     margin-top: 30px;
     margin-bottom: 25px;
@@ -267,7 +276,8 @@ p{
 }
 .car{
     margin-top: 30px;
-    width: 300px;
+   width: 50%;
+    height: auto;
     float: right;
     margin-left: 30px;
 }
